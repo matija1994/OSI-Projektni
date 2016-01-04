@@ -1,0 +1,1 @@
+﻿Realizovati jednostavan software za prodavnicu. Radnici treba da imaju mogućnost prijave na sistem unosom korisničkog imena i lozinke.
